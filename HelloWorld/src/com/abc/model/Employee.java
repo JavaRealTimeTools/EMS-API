@@ -1,6 +1,6 @@
 package com.abc.model;
 /*
- * @author mahap
+ * @author shravya
  */
 public class Employee {
 	private int id;
